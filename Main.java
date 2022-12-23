@@ -21,6 +21,6 @@ public class Main {
                        /_I      L_I   L_I     /_I
             Look at that! Our little camel is sunbathing!""";
 
-        System.out.println(camel);
+        // дописать код
     }
 }
