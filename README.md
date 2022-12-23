@@ -4,6 +4,7 @@
 #пример: Ваш вывод должен содержать следующее изображение выведенное с помощью ASCII
 
 Switching on the camera in the camel habitat...
+<!--language: lang-none-->
  ___.-''''-.
 /___  @    |
 ',,,,.     |         _.'''''''._
