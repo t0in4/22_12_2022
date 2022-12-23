@@ -4,7 +4,7 @@
 #пример: Ваш вывод должен содержать следующее изображение выведенное с помощью ASCII
 
 Switching on the camera in the camel habitat...
-<!--language: lang-none-->
+<pre class="notranslate">
  ___.-''''-.
 /___  @    |
 ',,,,.     |         _.'''''''._
@@ -22,4 +22,5 @@ Switching on the camera in the camel habitat...
             ; ;    ! !    ! !     ; ;
            ;,,      !,!   !,!     ;,;
            /_I      L_I   L_I     /_I
+           </pre>
 Look at that! Our little camel is sunbathing!
